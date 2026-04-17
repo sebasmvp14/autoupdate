@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "name": "test.txt",
+      "url": "https://raw.githubusercontent.com/TUUSUARIO/TUREPO/main/test.txt",
+      "path": "test.txt"
+    }
+  ]
+}
